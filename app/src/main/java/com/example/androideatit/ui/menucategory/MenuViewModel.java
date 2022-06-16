@@ -1,4 +1,4 @@
-package com.example.androideatit.ui.menu;
+package com.example.androideatit.ui.menucategory;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.MutableLiveData;

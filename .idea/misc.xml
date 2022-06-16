@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/projectAndroid/AndroidEatIt/app/src/main/res/drawable/ic_shoping_cart_black_24.xml" value="0.1445" />
+        <entry key="..\:/projectAndroid/AndroidEatIt/app/src/main/res/drawable/ic_star_black_24dp.xml" value="0.1445" />
         <entry key="..\:/projectAndroid/AndroidEatIt/app/src/main/res/drawable/side_nav_bar.xml" value="0.1455" />
         <entry key="..\:/projectAndroid/AndroidEatIt/app/src/main/res/layout/activity_home.xml" value="0.17074275362318841" />
         <entry key="..\:/projectAndroid/AndroidEatIt/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />

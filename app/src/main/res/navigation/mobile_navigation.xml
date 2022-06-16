@@ -13,7 +13,7 @@
 
     <fragment
         android:id="@+id/nav_menu"
-        android:name="com.example.androideatit.ui.menu.MenuFragment"
+        android:name="com.example.androideatit.ui.menucategory.MenuFragment"
         android:label="@string/menu_menu"
         tools:layout="@layout/fragment_menu" />
 

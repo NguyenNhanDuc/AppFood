@@ -66,6 +66,7 @@ public class FoodListFragment extends Fragment {
 
         unbinder = ButterKnife.bind(this, root);
         initView();
+        System.out.println("");
         foodListViewModel.getMutableLiveDataFoodList().observe(getViewLifecycleOwner(), new Observer<List<FoodModel>>() {
             @Override
             public void onChanged(List<FoodModel> foodModels) {

@@ -1,4 +1,4 @@
-package com.example.androideatit.ui.menu;
+package com.example.androideatit.ui.menucategory;
 
 import android.app.AlertDialog;
 import android.app.SearchManager;
@@ -13,9 +13,7 @@ import android.view.ViewGroup;
 import android.view.animation.AnimationUtils;
 import android.view.animation.LayoutAnimationController;
 import android.widget.EditText;
-import android.widget.GridLayout;
 import android.widget.ImageView;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
@@ -32,8 +30,6 @@ import com.example.androideatit.EventBus.MenuItemBack;
 import com.example.androideatit.Model.CategoryModel;
 import com.example.androideatit.R;
 import com.example.androideatit.databinding.FragmentMenuBinding;
-import com.example.androideatit.databinding.FragmentMenuBinding;
-import com.example.androideatit.ui.home.HomeViewModel;
 
 import org.greenrobot.eventbus.EventBus;
 

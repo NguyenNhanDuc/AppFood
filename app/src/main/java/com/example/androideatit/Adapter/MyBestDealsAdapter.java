@@ -15,6 +15,7 @@ import com.bumptech.glide.Glide;
 import com.example.androideatit.EventBus.BestDealItemClick;
 import com.example.androideatit.Model.BestDealModel;
 import com.example.androideatit.R;
+import com.example.androideatit.databinding.FragmentHomeBinding;
 
 import org.greenrobot.eventbus.EventBus;
 
